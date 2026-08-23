@@ -1,0 +1,5 @@
+print("Nama : Fathia Sari Nurhaniya")
+print("NIM : 2605060057")
+print("TTL : Salatiga, 10 Oktober")
+print("Jenis Kelamin : Perempuan")
+print("Hobi : Membaca")
